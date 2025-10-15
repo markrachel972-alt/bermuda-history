@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bermuda's History - By Dr. Avi</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f7fb;
+      color: #333;
+      padding: 20px;
+      line-height: 1.6;
+    }
+
+    h1 {
+      text-align: center;
+      color: #0077cc;
+    }
+
+    h3 {
+      text-align: center;
+      color: #555;
+      font-style: italic;
+    }
+
+    h2 {
+      color: #005fa3;
+      border-bottom: 2px solid #0077cc;
+      padding-bottom: 5px;
+    }
+
+    ul {
+      list-style-type: disc;
+      margin-left: 30px;
+    }
+
+    em {
+      color: #444;
+    }
+
+    .section {
+      background-color: white;
+      padding: 15px;
+      margin-bottom: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+
+    .map {
+      text-align: center;
+      margin: 25px 0;
+    }
+
+    .map img {
+      width: 320px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 30px;
+      color: #666;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <h1>🇧🇲 Bermuda's History</h1>
+  <h3>Created by Dr. Avi</h3>
+
+  <div class="map">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Bermuda_-_Location_Map_%282013%29_-_BM_-_UNOCHA.svg" alt="Map of Bermuda">
+    <p><em>Map showing Bermuda’s location in the North Atlantic Ocean</em></p>
+  </div>
+
+  <p>Bermuda's history spans over 500 years, with various periods shaping the island into what it is today.</p>
+
+  <div class="section">
+    <h2>Early History</h2>
+    <ul>
+      <li><strong>Discovery:</strong> Bermuda was first documented by European explorer <em>Juan de Bermúdez</em> in 1503, although there's limited information about this visit.</li>
+      <li><strong>Shipwreck:</strong> In 1609, the English ship <em>Sea Venture</em>, en route to Jamestown, Virginia, was shipwrecked on Bermuda's reefs, marking the beginning of English settlement.</li>
+      <li><strong>Permanent Settlement:</strong> The first permanent English settlement was established in 1612, with St. George's as the capital.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Colonial Era</h2>
+    <ul>
+      <li><strong>Virginia Company:</strong> Bermuda was initially administered by the Virginia Company, then the Somers Isles Company from 1615 to 1684.</li>
+      <li><strong>British Colony:</strong> In 1684, Bermuda became a British Crown Colony, with a governor and council appointed by the British monarch.</li>
+      <li><strong>Slavery:</strong> Slavery was introduced in the 1620s, with enslaved Africans and Native Americans brought to the island.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>18th and 19th Centuries</h2>
+    <ul>
+      <li><strong>American Revolution:</strong> During the American Revolution, Bermuda remained loyal to the British Crown and served as a base for British naval operations.</li>
+      <li><strong>War of 1812:</strong> Bermuda played a significant role in the War of 1812, with British forces launching attacks on Washington, D.C., and Baltimore from the island.</li>
+      <li><strong>Abolition of Slavery:</strong> Slavery was abolished in Bermuda and the rest of the British Empire in 1834.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>20th Century</h2>
+    <ul>
+      <li><strong>World War II:</strong> Bermuda played a strategic role in World War II, with the United States establishing military bases on the island.</li>
+      <li><strong>Independence Movement:</strong> In the 1960s and 1970s, Bermuda moved towards self-government, with a new constitution adopted in 1968.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Modern Bermuda</h2>
+    <ul>
+      <li><strong>British Overseas Territory:</strong> Bermuda is a British Overseas Territory, with a premier and a parliament responsible for internal affairs.</li>
+      <li><strong>Financial Services:</strong> Bermuda has developed a significant financial services sector, with many international companies incorporated on the island.</li>
+      <li><strong>Tourism:</strong> Tourism is also a major industry, with visitors drawn to Bermuda's beaches, history, and culture.</li>
+    </ul>
+  </div>
+
+  <footer>
+    <p>Project created by <strong>Dr. Avi</strong> — All rights reserved © 2025</p>
+  </footer>
+</body>
+</html>
